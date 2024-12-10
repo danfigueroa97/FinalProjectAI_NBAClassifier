@@ -24,4 +24,6 @@
 
 # Enlances
 
-[Codigo](https://colab.research.google.com/drive/1gOZIWt1pwDj89zt2qxxHZiMmk7aBKsk4?usp=sharing)
+* [Codigo Colab](https://colab.research.google.com/drive/1gOZIWt1pwDj89zt2qxxHZiMmk7aBKsk4?usp=sharing)
+* [Video Youtube]()
+* [Repositorio](https://github.com/danfigueroa97/FinalProjectAI_NBAClassifier/tree/main)
