@@ -18,9 +18,12 @@
 
 ## Dataset
 
+Estos datasets de Kaggle proporcionan estadísticas detalladas de jugadores de la NBA en diferentes temporadas, incluyendo datos históricos, de la temporada 2021-2022, de la temporada 2022-2023 y de la temporada en curso 2023-2024. Son ideales para analizar el rendimiento de los jugadores a lo largo del tiempo, identificar tendencias históricas, evaluar contribuciones recientes y explorar el impacto de nuevos talentos en la liga.
+[Dataset 2021-2022](https://www.kaggle.com/datasets/vivovinco/nba-player-stats/data) - [Dataset 2022-2023](https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular) - [Dataset 2023-2024](https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats/data)
 
 ## Modelos
 
+* Decission Tree: Classifier, Regressor - Random Forest: Classifier, Regressor - Algoritmo Genetico
 
 ## Enlances
 
