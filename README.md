@@ -1,5 +1,5 @@
 ## Titulo: Clasificador de posiciones NBA
-* Proyecto final Inteligencia Artificial I, 2024-2
+* Proyecto Final Inteligencia Artificial I, 2024-2
 
 
 ## Banner
