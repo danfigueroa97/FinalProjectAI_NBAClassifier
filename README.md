@@ -2,8 +2,9 @@
 
 
 ## Titulo: Clasificador de posiciones NBA
+* Proyecto final Inteligencia Artificial I, 2024-2
 
-
+## Banner
 ![BannerProjecrAI](https://github.com/user-attachments/assets/d69205b3-5ba2-4026-b2de-fb0e9b2da52d)
 
 
